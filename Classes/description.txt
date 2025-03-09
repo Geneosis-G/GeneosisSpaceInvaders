@@ -1,0 +1,33 @@
+They are among us...
+
+Ancient Ailens! Why won't you believe me?? I saw them, they are camouflaged as humans, but I saw them! I will keep headbutting them until they reveal themselves, and then you will see I was right!
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Space Invaders: Aliens are invading.
+
+[b]CHARACTERISTICS[/b]
+- Attack an Alien camouflaged as human to start the invasion.
+- Aliens will brainwash nearby creatures and players.
+- Brainwashed creatures will follow the Aliens orders for a medium period of time.
+- Brainwashed players will follow the Aliens orders for a short period of time.
+- Flying Saucers are collecting samples of earth technologies and life forms.
+- Samples collected by Flying Saucers cannot be retrieved.
+- The number of Flying Saucers depend on the total number of samples on the map.
+
+[b]EASTER EGGS[/b]
+- [spoiler]Vehicles are for some reasons blocking Alien brainwashing waves... (immune while driving)[/spoiler]
+- [spoiler]Riding on top of Flying Saucers is pretty fun :D[/spoiler]
+- [spoiler]Traveling to another map will cancel the invasion. It's up to you to start it again or not.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- Flying Saucers may attempt to abduct unreachable items.
+- Flying Saucers sometimes phase through terrain or buildings (alien technology... you know...).
+- After a very long play session, Alien bodies may start to be glitchy. Restart map or change map to fix.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Here is another really interesting suggestion that came out of the request thread :) Not sure if this was suggested when the Waste of Space DLC came out, or even before, when some aliens could be seen in the GoatZ map, anyway I liked this idea a lot and I had a lot of fun making this mod ^^
+First thing first: Aliens! So if you ever played GoatZ you probably saw some of those dudes sleeping around near their crashed flying saucer, and the main idea in this mod was to make them more lively and more... Invading :p So here is the main idea I had in mind for them: One propular ability attributed to aliens is brainwashing (or mind control, or howerver you want to call that) so I wanted to translate this ability into the game. The core mechanic behind that is to actually send actions to the NPC AI or the player inputs in order to trigger random (but not passive) behaviors. This part was the most tricky as some actions I wanted the characters to perform could not be triggered directly through code, so I had to find good enough workaround to get the intended result. Hopefully some GoatZ particle effects helped a lot to make things look cool which is always good :)
+Then came the Flying Saucers... Those required less work as you can already find a fully working (abducting) flying saucer in the game (from the Payday DLC). Still I had to extend the existing version with some of my own code in order to make it abduct pretty much everything and also handle the fact that multiple saucers can be present on the map at the same time. I also tried to give the saucer an actual hold opening/closing animation (like I did in my UFO mod) but the result was a really wacky rotation of the saucer, so I left it the way it was: no anmation, but smooth flight. All in all, I'm pretty happy with the final result ^^
+[/quote]
